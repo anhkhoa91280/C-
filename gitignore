@@ -1,0 +1,15 @@
+CPP_RSA
+CPP_RSA.pub
+*.suo
+*.db
+*.vcxproj
+*.filters
+*.tlog
+*.log
+*.idb
+*.pdb
+*.exe
+*.ilk
+*.opendb
+Test/.vs/Test/v16/ipch/AutoPCH/*
+*.obj
