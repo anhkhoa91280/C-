@@ -11,8 +11,6 @@ CPP_RSA.pub
 *.exe
 *.ilk
 *.opendb
-Test/.vs/Test/v16/*
 *.obj
 *.ipch
 *.*.db
-Test/.vs/Test/v16/Browse.VC.db
