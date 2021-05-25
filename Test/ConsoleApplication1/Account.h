@@ -8,4 +8,5 @@ public:
 private:
 	std::string account_num;
 	std::string cif;
+	double balance;
 };
