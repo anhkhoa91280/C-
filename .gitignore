@@ -11,7 +11,7 @@ CPP_RSA.pub
 *.exe
 *.ilk
 *.opendb
-Test/.vs/Test/*
+Test/.vs/Test/v16/*
 *.obj
 *.ipch
 *.*.db
