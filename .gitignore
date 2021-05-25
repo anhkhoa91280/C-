@@ -14,3 +14,4 @@ CPP_RSA.pub
 *.ipch
 *.*.db
 Test/ConsoleApplication1/Debug/*.*
+Test/Debug/*.*
