@@ -4,7 +4,6 @@ CPP_RSA.pub
 *.db
 *.vcxproj
 *.filters
-*.tlog
 *.log
 *.idb
 *.pdb
@@ -14,4 +13,4 @@ CPP_RSA.pub
 *.obj
 *.ipch
 *.*.db
-Test/ConsoleApplication1/Debug/*
+Test/ConsoleApplication1/Debug/*.*
