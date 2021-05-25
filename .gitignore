@@ -13,3 +13,5 @@ CPP_RSA.pub
 *.opendb
 Test/.vs/Test/v16/ipch/AutoPCH/*
 *.obj
+*.*.db
+
