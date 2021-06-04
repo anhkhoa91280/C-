@@ -6,5 +6,6 @@ public:
 	Account();
 	std::string getAccNum();
 private:
-	std::string account_num; //account number
+	std::string account_num;
+	double interest_rate;
 };
