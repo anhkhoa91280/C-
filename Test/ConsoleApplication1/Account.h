@@ -6,5 +6,5 @@ public:
 	Account();
 	std::string getAccNum();
 private:
-	std::string account_num; //bank account number
+	std::string account_num;
 };
