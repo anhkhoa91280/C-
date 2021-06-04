@@ -8,4 +8,5 @@ public:
 private:
 	std::string account_num;
 	double interest_rate;
+	std::string cif;
 };
